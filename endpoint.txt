@@ -1,1 +1,1 @@
-https://college-causing-condos-highest.trycloudflare.com
+https://api.trycloudflare.com
