@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://skip-create-strand-paid.trycloudflare.com
